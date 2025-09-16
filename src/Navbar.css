@@ -1,0 +1,19 @@
+.navbar{
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.cart-info{
+    font-size: 16px;
+}
